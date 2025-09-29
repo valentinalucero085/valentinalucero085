@@ -65,16 +65,6 @@ Estoy en constante evolución, aprendiendo nuevas herramientas y buscando siempr
 
 ---
 
-### 📊 Lenguajes más utilizados
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=valentinalucero085&show_icons=true&locale=en&layout=compact&theme=radical)
-
-</div>
-
----
-
 ### 🔗 &nbsp;Contactame
 
 <div align="center">
